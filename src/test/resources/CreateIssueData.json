@@ -1,0 +1,13 @@
+{
+    "fields": {
+       "project":
+       {
+          "key": "VIK"
+       },
+       "summary": "Develope Covid Hospital for 100 beds only for the corona patient",
+       "description": "Giving demo for creating a story",
+       "issuetype": {
+          "name": "Task"
+       }
+   }
+}

@@ -1,0 +1,13 @@
+{
+    "fields": {
+       "project":
+       {
+          "key": "VIK"
+       },
+       "summary": "Creating new ticket to Develope the Wardrobe for 2 BHK ",
+       "description": "Giving demo for creating a story",
+       "issuetype": {
+          "name": "Story"
+       }
+   }
+}
